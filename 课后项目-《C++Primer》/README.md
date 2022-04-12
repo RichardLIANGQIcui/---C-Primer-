@@ -1,4 +1,4 @@
-# C++ Primer Project
+# 课后项目-《C++Primer》
 some after-class exercisese and a little project of the 《C++Primer》
 
 该项目是自己在学习《C++Primer》时做的一些课后习题&小项目，提供了源文件以供参考。
